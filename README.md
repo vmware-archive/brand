@@ -1,7 +1,8 @@
 ## Concourse Design System
 This repository contians the UI elements, patterns and guidelines that you will need to get started.   
 
-### Get Started [contribute] (https://concourse-ci.org/contribute.html)
+### Get Started 
+[contribute] (https://concourse-ci.org/contribute.html)
 
 ### Contributing
 The team welcomes contributions from the community, we'd love to have your help! Please read the [guidelines](https://github.com/concourse/concourse/blob/master/CONTRIBUTING.md) doc.  [contribute] (https://concourse-ci.org/contribute.html)
