@@ -3,9 +3,9 @@
 ## About
 Concourse Design system is in a state of iteration as we build out new features that break the current UI. Building this documentation is to ensure consistency in brand, visual, and user interface design as the application grows and changes.
 
-01 Global Elements
+## Global Elements
 
-## Colors 
+### Colors 
 
 Primary
 1. Red #ED4B35
@@ -27,7 +27,7 @@ Secondary
 7. Brown #6A401C
 8. Black #1E1D1D
 
-## Typography
+### Typography
 #### Font **Iosevka**:
 Iosevka is a slender monospace sans-serif and slab-serif typeface inspired by Pragmata Pro, M+ and PF DIN Mono, designed to be the ideal font for programming.
 
@@ -37,17 +37,17 @@ Iosevka is completely generated from its source code. You can build your own var
 See repo here [git](https://be5invis.github.io/Iosevka/)
 To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen.html) here. 
 
-## Logo
+### Logo
 
 
-## Iconography
+### Iconography
 Icon Usage:
 Icons are used in various areas throughout the application. Whether they are in.... icons should remain vertical-middle
 aligned, regardless of overall height.
 
-02 Specifications
+## Specifications
 
-## Layout
+### Layout
 
 ### Components
 
@@ -55,13 +55,13 @@ aligned, regardless of overall height.
 Represent the most common path or
 the action taken most frequently by
 users.
-## Dashboard Cards 
+### Dashboard Cards 
 
 ### Navigation 
 
-### Screen Break points
+### Screen Break Points
 
-03 UX Flows
+## UX Flows
 
 
 
