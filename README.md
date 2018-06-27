@@ -51,7 +51,7 @@ aligned, regardless of overall height.
 
 ### Components
 
-## Primary Buttons
+### Primary Buttons
 Represent the most common path or
 the action taken most frequently by
 users.
