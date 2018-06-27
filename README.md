@@ -3,6 +3,8 @@
 ## About
 Concourse Design system is in a state of iteration as we build out new features that break the current UI. Building this documentation is to ensure consistency in brand, visual, and user interface design as the application grows and changes.
 
+
+
 ## Global Elements
 The Global Elements section standardizes the guidelines, formats and measurements of all general design elements, which form the design
 foundation of the product.
@@ -30,8 +32,11 @@ Secondary
 8. Black #1E1D1D
 
 ### Typography
-#### Font **Iosevka**:
-Iosevka is a slender monospace sans-serif and slab-serif typeface inspired by Pragmata Pro, M+ and PF DIN Mono, designed to be the ideal font for programming.
+
+Inspired by the terminal we use a monospace font in our UI. The majority of IDEs (via a console or terminal ) and software text editors use a monospaced font as their default typeface because the aignment of the letters and the fixed width of each character make it easier to read errors in the code. 
+
+#### Font 
+**Iosevka**: a slender monospace sans-serif and slab-serif typeface inspired by Pragmata Pro, M+ and PF DIN Mono, designed to be the ideal font for programming.
 
 **Open Source**
 Iosevka is completely generated from its source code. You can build your own variant by adjusting its parameters.
@@ -44,7 +49,7 @@ To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen
 
 ### Iconography
 Icon Usage:
-Icons are used in various areas throughout the application. Whether they are in.... icons should remain vertical-middle
+Icons are used in various areas throughout the application. Icons should remain vertical-middle
 aligned, regardless of overall height.
 
 ## Specifications
@@ -67,6 +72,13 @@ users.
 
 
 ## UX Flows
+
+
+Developer Guidelines
+
+Resources
+
+
 
 ## Contributing
 The team welcomes contributions from the community, we'd love to have your help! Please read the [guidelines](https://github.com/concourse/concourse/blob/master/CONTRIBUTING.md) doc.
