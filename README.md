@@ -33,8 +33,8 @@ Iosevka is a slender monospace sans-serif and slab-serif typeface inspired by Pr
 
 **Open Source**
 Iosevka is completely generated from its source code. You can build your own variant by adjusting its parameters.
+See source code [here](https://be5invis.github.io/Iosevka/)
 
-See repo here [git](https://be5invis.github.io/Iosevka/)
 To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen.html) here. 
 
 ### Logo
