@@ -4,6 +4,8 @@
 Concourse Design system is in a state of iteration as we build out new features that break the current UI. Building this documentation is to ensure consistency in brand, visual, and user interface design as the application grows and changes.
 
 ## Global Elements
+The Global Elements section standardizes the guidelines, formats and measurements of all general design elements, which form the design
+foundation of the product.
 
 ### Colors 
 
@@ -46,25 +48,25 @@ Icons are used in various areas throughout the application. Whether they are in.
 aligned, regardless of overall height.
 
 ## Specifications
-
-### Layout
+This section provides an informative implementation specs on individual elements.
 
 ### Components
-
-### Primary Buttons
-Represent the most common path or
-the action taken most frequently by
-users.
-### Dashboard Cards 
 
 ### Navigation 
 
 ### Screen Break Points
 
+### Layout
+
+### Primary Buttons
+Represent the most common path or
+the action taken most frequently by
+users.
+
+### Dashboard Cards 
+
+
 ## UX Flows
-
-
-
 
 ## Contributing
 The team welcomes contributions from the community, we'd love to have your help! Please read the [guidelines](https://github.com/concourse/concourse/blob/master/CONTRIBUTING.md) doc.
