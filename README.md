@@ -48,7 +48,7 @@ To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen
 
 ### Logo
 
-[all versions](https://github.com/concourse/design-system/tree/master/concourse_logo)
+[download](https://github.com/concourse/design-system/tree/master/concourse_logo)
 
 ## Trademark Guidelines
 In addition to our Trademark Guidelines on our [website](https://concourse-ci.org/trademarks.html) this provides some some guidance as to how to use the Concourse logo.
