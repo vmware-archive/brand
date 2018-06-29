@@ -1,9 +1,9 @@
 ## Concourse Design System
+These guidelines are a means of communicating the guiding principles of how we approach the Concourse product and its design. We are community driven and user centered in our design. Product Design changes are prompted by pain points from usability testing, observation, and feedback from users.
 
 ## About
 Building this documentation is to ensure consistency in brand, visual, and user interface design as the application grows and changes.
-Concourse Design system is always in a state of iteration as we build out new features that evolve the current UI. These guidelines are a means of making communication 
-
+Concourse Design system is always in a state of iteration as we build out new features that evolve the current UI. 
 
 ## Global Elements
 The Global Elements section standardizes the guidelines, formats and measurements of all general design elements, which form the design
