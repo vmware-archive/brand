@@ -13,7 +13,7 @@ foundation of the product.
 
 These colors have been selected for their contrast and adherance to accessibility standards. 
 
-
+[Dashboard](https://github.com/concourse/Concourse-Design-System/blob/master/Dashboard_color_palette.jpg)
 
 **Primary**
 > Red #ED4B35
@@ -47,7 +47,6 @@ To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen
 
 
 ### Logo
-[propellor on blue square](https://github.com/concourse/Concourse-Design-System/blob/master/concourse_logo/concourse_logo_blue_square.png)
 
 [all versions](https://github.com/concourse/design-system/tree/master/concourse_logo)
 
