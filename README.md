@@ -50,7 +50,7 @@ To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen
 
 [all versions](https://github.com/concourse/design-system/tree/master/concourse_logo)
 
-### Trademark Guidelines
+## Trademark Guidelines
 In addition to our Trademark Guidelines on our [website](https://concourse-ci.org/trademarks.html) this provides some some guidance as to how to use the Concourse logo.
 
 > OPEN SOURCE LICENSE VS. TRADEMARKS. The Apache 2.0 license gives you the right to use, copy, distribute and modify the Concourse software. However, open source licenses like the Apache 2.0 license do not address trademarks. Concourse Marks need to be used in a way consistent with trademark law, and that is why we have prepared this policy – to help you understand what branding is allowed or required when using our software under the Apache license.
@@ -62,9 +62,13 @@ In addition to our Trademark Guidelines on our [website](https://concourse-ci.or
 MORE QUESTIONS? If you have questions about this policy, please contact us at trademarks@concourse.ci
 
 ### Iconography
+
+We are using Material icons (https://material.io/icons)
+
 Icon Usage:
 Icons are used in various areas throughout the application. Icons should remain vertical-middle
 aligned, regardless of overall height.
+
 
 ## Contributing
 The team welcomes contributions from the community, we'd love to have your help! Please read the [guidelines](https://github.com/concourse/concourse/blob/master/CONTRIBUTING.md) doc.
