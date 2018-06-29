@@ -1,8 +1,8 @@
 ## Concourse Design System
 
 ## About
-Concourse Design system is in a state of iteration as we build out new features that break the current UI. Building this documentation is to ensure consistency in brand, visual, and user interface design as the application grows and changes.
-
+Building this documentation is to ensure consistency in brand, visual, and user interface design as the application grows and changes.
+Concourse Design system is always in a state of iteration as we build out new features that evolve the current UI. These guidelines are a means of making communication 
 
 
 ## Global Elements
@@ -10,6 +10,8 @@ The Global Elements section standardizes the guidelines, formats and measurement
 foundation of the product.
 
 ### Colors 
+
+These colors have been selected for their contrast and adherance to accessibility standards. 
 
 Primary
 1. Red #ED4B35
@@ -43,6 +45,8 @@ Iosevka is completely generated from its source code. You can build your own var
 See source code [here](https://be5invis.github.io/Iosevka/)
 
 To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen.html) here. 
+
+Headers and Sizing
 
 ### Logo
 
@@ -88,7 +92,7 @@ The Concourse project pledges to make our community a harassment-free experience
 [Contributor Code of Conduct] (https://github.com/concourse/concourse/blob/master/CODE_OF_CONDUCT.md)
 
 ### Feedback
-Please add [feedback](https://github.com/concourse/design-system/issues) here. 
+If you find a bug or want to request a new feature, please open a GitHub issue. [feedback](https://github.com/concourse/design-system/issues)
 
 ### Trademark Guidelines
 In addition to our Trademark Guidelines on our [website](https://concourse-ci.org/trademarks.html) this provides some some guidance as to how to use the Concourse logo.
