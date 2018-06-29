@@ -49,7 +49,7 @@ To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen
 Headers and Sizing
 
 ### Logo
-
+https://github.com/concourse/design-system/tree/master/concourse_logo
 
 ### Iconography
 Icon Usage:
