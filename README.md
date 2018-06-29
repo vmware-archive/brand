@@ -16,24 +16,24 @@ These colors have been selected for their contrast and adherance to accessibilit
 
 
 **Primary**
-1. Red #ED4B35
-2. Green #11C560
-3. Blue #4A90E2
-4. Amber #F5A623
-5. Grey # 9B9B9B
-6. Dark Grey #3D3C3C 
-7. Brown #8B572A
-8. Black #1E1D1D
+> Red #ED4B35
+> Green #11C560
+> Blue #4A90E2
+> Amber #F5A623
+> Grey # 9B9B9B
+> Dark Grey #3D3C3C 
+> Brown #8B572A
+> Black #1E1D1D
 
 **Secondary**
-1. Red #BD3826
-2. Green #419867
-3. Blue #2D76CC
-4. Amber #EC9910
-5. Grey # 7A7373
-6. Dark Grey #3D3C3C 
-7. Brown #6A401C
-8. Black #1E1D1D
+> Red #BD3826
+> Green #419867
+> Blue #2D76CC
+> Amber #EC9910
+> Grey # 7A7373
+> Dark Grey #3D3C3C 
+> Brown #6A401C
+> Black #1E1D1D
 
 ### Typography
 
@@ -47,8 +47,9 @@ To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen
 
 
 ### Logo
+[propellor on blue square](https://github.com/concourse/Concourse-Design-System/blob/master/concourse_logo/concourse_logo_blue_square.png)
 
-https://github.com/concourse/design-system/tree/master/concourse_logo
+[all versions](https://github.com/concourse/design-system/tree/master/concourse_logo)
 
 ### Trademark Guidelines
 In addition to our Trademark Guidelines on our [website](https://concourse-ci.org/trademarks.html) this provides some some guidance as to how to use the Concourse logo.
@@ -71,7 +72,7 @@ The team welcomes contributions from the community, we'd love to have your help!
 
 ### Code of Conduct
 The Concourse project pledges to make our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. You can read more about our commitment in the project's 
-[Contributor Code of Conduct] (https://github.com/concourse/concourse/blob/master/CODE_OF_CONDUCT.md)
+[Contributor Code of Conduct](https://github.com/concourse/concourse/blob/master/CODE_OF_CONDUCT.md)
 
 ### Feedback
 If you find a bug or want to request a new feature, please open a GitHub issue. [feedback](https://github.com/concourse/design-system/issues)
