@@ -13,7 +13,7 @@ foundation of the product.
 
 These colors have been selected for their contrast and adherance to accessibility standards. 
 
-Primary
+**Primary**
 1. Red #ED4B35
 2. Green #11C560
 3. Blue #4A90E2
@@ -23,7 +23,7 @@ Primary
 7. Brown #8B572A
 8. Black #1E1D1D
 
-Secondary
+**Secondary**
 1. Red #BD3826
 2. Green #419867
 3. Blue #2D76CC
@@ -38,50 +38,27 @@ Secondary
 Inspired by the terminal we use a monospace font in our UI. The majority of IDEs (via a console or terminal ) and software text editors use a monospaced font as their default typeface because the aignment of the letters and the fixed width of each character make it easier to read errors in the code. 
 
 #### Font 
-**Iosevka**: a slender monospace sans-serif and slab-serif typeface inspired by Pragmata Pro, M+ and PF DIN Mono, designed to be the ideal font for programming.
-
-**Open Source**
-Iosevka is completely generated from its source code. You can build your own variant by adjusting its parameters.
+**Iosevka**: a slender monospace sans-serif and slab-serif typeface inspired by Pragmata Pro, M+ and PF DIN Mono, designed to be the ideal font for programming. 
 See source code [here](https://be5invis.github.io/Iosevka/)
 
 To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen.html) here. 
 
-Headers and Sizing
 
 ### Logo
+OPEN SOURCE LICENSE VS. TRADEMARKS. The Apache 2.0 license gives you the right to use, copy, distribute and modify the Concourse software. However, open source licenses like the Apache 2.0 license do not address trademarks. Concourse Marks need to be used in a way consistent with trademark law, and that is why we have prepared this policy – to help you understand what branding is allowed or required when using our software under the Apache license.
+
+IMPROPER USE OF THE TRADEMARKS AND LOGOS. Use of the logo is reserved solely for use by Concourse in its unaltered form.
+
+PROPER USE OF THE CONCOURSE MARKS. We want to encourage a robust community for the Concourse open source project. Therefore, you may do any of the following, as long as you do so in a way that does not devalue, dilute, or disparage the Concourse brand. In other words, when you do these things, you should behave responsibly and reasonably in the interest of the community, but you do not need a trademark license from us to do them.
+
+https://concourse-ci.org/trademarks.html
+
 https://github.com/concourse/design-system/tree/master/concourse_logo
 
 ### Iconography
 Icon Usage:
 Icons are used in various areas throughout the application. Icons should remain vertical-middle
 aligned, regardless of overall height.
-
-## Specifications
-This section provides an informative implementation specs on individual elements.
-
-### Components
-
-### Navigation 
-
-### Screen Break Points
-
-### Layout
-
-### Primary Buttons
-Represent the most common path or
-the action taken most frequently by
-users.
-
-### Dashboard Cards 
-
-
-## UX Flows
-
-
-Developer Guidelines
-
-Resources
-
 
 
 ## Contributing
