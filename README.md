@@ -37,7 +37,7 @@ These colors have been selected for their contrast and adherance to accessibilit
 
 ### Typography
 
-Inspired by the terminal we use a monospace font in our UI. The majority of IDEs (via a console or terminal ) and software text editors use a monospaced font as their default typeface because the aignment of the letters and the fixed width of each character make it easier to read errors in the code. 
+Inspired by the terminal we use a monospace font in our UI. The majority of IDEs (via a console or terminal ) and software text editors use a monospaced font as their default typeface because the aignment of the letters and the fixed width of each character make it easierfor developers to read errors in code. 
 
 #### Font 
 **Iosevka**: a slender monospace sans-serif and slab-serif typeface inspired by Pragmata Pro, M+ and PF DIN Mono, designed to be the ideal font for programming. 
