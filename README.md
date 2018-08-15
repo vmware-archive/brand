@@ -24,6 +24,7 @@ These colors have been selected for their contrast and adherance to accessibilit
 > Dark Grey #3D3C3C 
 > Brown #8B572A
 > Black #1E1D1D
+> Yellow #F1C40F
 
 **Secondary**
 > Red #BD3826
@@ -40,11 +41,9 @@ These colors have been selected for their contrast and adherance to accessibilit
 Inspired by the terminal we use a monospace font in our UI. The majority of IDEs (via a console or terminal ) and software text editors use a monospaced font as their default typeface because the aignment of the letters and the fixed width of each character make it easierfor developers to read errors in code. 
 
 #### Font 
-**Iosevka**: a slender monospace sans-serif and slab-serif typeface inspired by Pragmata Pro, M+ and PF DIN Mono, designed to be the ideal font for programming. 
-See source code [here](https://be5invis.github.io/Iosevka/)
-
-To see an example see the [specimen](https://be5invis.github.io/Iosevka/specimen.html) here. 
-
+**Inconsolata**
+https://fonts.google.com/specimen/Inconsolata
+https://github.com/googlefonts/Inconsolata
 
 ### Logo
 
