@@ -42,12 +42,13 @@ Inspired by the terminal we use a monospace font in our UI. The majority of IDEs
 
 #### Font 
 **Inconsolata**
-https://fonts.google.com/specimen/Inconsolata
-https://github.com/googlefonts/Inconsolata
+> https://fonts.google.com/specimen/Inconsolata
+
+> https://github.com/googlefonts/Inconsolata
 
 ### Logo
 
-[download](https://github.com/concourse/design-system/tree/master/concourse_logo)
+[Download](https://github.com/concourse/design-system/tree/master/concourse_logo)
 
 ## Trademark Guidelines
 In addition to our Trademark Guidelines on our [website](https://concourse-ci.org/trademarks.html) this provides some some guidance as to how to use the Concourse logo.
