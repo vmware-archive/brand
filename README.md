@@ -70,6 +70,11 @@ Icons are used in various areas throughout the application. Icons should remain 
 aligned, regardless of overall height.
 
 
+### UI Explained 
+
+Concourse Pipeline UI Explained
+https://medium.com/concourse-ci/concourse-pipeline-ui-explained-87dfeea83553
+
 ## Contributing
 The team welcomes contributions from the community, we'd love to have your help! Please read the [guidelines](https://github.com/concourse/concourse/blob/master/CONTRIBUTING.md) doc.
 
