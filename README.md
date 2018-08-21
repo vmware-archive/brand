@@ -70,9 +70,9 @@ Icons are used in various areas throughout the application. Icons should remain 
 aligned, regardless of overall height.
 
 
-### UI Explained 
+## UI Explained 
 
-Concourse Pipeline UI Explained (https://medium.com/concourse-ci/concourse-pipeline-ui-explained-87dfeea83553)
+[Concourse Pipeline UI Explained] (https://medium.com/concourse-ci/concourse-pipeline-ui-explained-87dfeea83553)
 
 
 ## Contributing
