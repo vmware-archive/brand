@@ -37,9 +37,8 @@ These colors have been selected for their contrast and adherance to accessibilit
 
 ### Typography
 
-Inspired by the terminal we use a monospace font in our UI. The majority of IDEs (via a console or terminal ) and software text editors use a monospaced font as their default typeface because the aignment of the letters and the fixed width of each character make it easierfor developers to read errors in code. 
+Inspired by the terminal we use a monospace font in our UI. The majority of IDEs (via a console or terminal) and software text editors use monospaced fonts as their default typeface because the aignment of the letters and the fixed width of each character make it easier for developers to read errors in code. 
 
-#### Font 
 **Inconsolata**
 Inconsolata is an open-source font created by Raph Levien and released under the SIL Open Font License
 It is a humanist monospaced font designed for source code listing, terminal emulators, and similar uses.
