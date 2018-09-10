@@ -15,25 +15,24 @@ foundation of the product.
 These colors have been selected for their contrast and adherance to accessibility standards. 
 
 **Primary**
-> Red #ED4B35
-> Green #11C560
-> Blue #4A90E2
-> Amber #F5A623
-> Grey # 9B9B9B
-> Dark Grey #3D3C3C 
-> Brown #8B572A
-> Black #1E1D1D
-> Yellow #F1C40F
+> 01 Red #ED4B35
+> 01 Green #11C560
+> 01 Blue #4A90E2
+> 01 Amber #F5A623
+> 01 Grey # 9B9B9B
+> 01 Dark Grey #3D3C3C 
+> 01 Brown #8B572A
+> 01 Black #1E1D1D
+> 01 Yellow #F1C40F
 
 **Secondary**
-> Red #BD3826
-> Green #419867
-> Blue #2D76CC
-> Amber #EC9910
-> Grey # 7A7373
-> Dark Grey #3D3C3C 
-> Brown #6A401C
-> Black #1E1D1D
+> 02 Red #BD3826
+> 02 Green #419867
+> 02 Blue #2D76CC
+> 02 Amber #EC9910
+> 02 Grey # 7A7373
+> 02 Dark Grey #3D3C3C 
+> 02 Brown #6A401C
 
 
 ### Typography
