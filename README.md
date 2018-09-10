@@ -48,7 +48,7 @@ Inspired by the terminal we use a monospace font in our UI. The majority of IDEs
 
 ### Logo
 
-[Download](https://github.com/concourse/design-system/tree/master/concourse_logo)
+[download](https://github.com/concourse/design-system/tree/master/concourse_logo)
 
 ## Trademark Guidelines
 In addition to our Trademark Guidelines on our [website](https://concourse-ci.org/trademarks.html) this provides some some guidance as to how to use the Concourse logo.
@@ -63,7 +63,7 @@ MORE QUESTIONS? If you have questions about this policy, please contact us at tr
 
 ### Iconography
 
-We are using Material icons (https://material.io/icons)
+[Material icons](https://material.io/icons)
 
 Icon Usage:
 Icons are used in various areas throughout the application. Icons should remain vertical-middle
@@ -72,8 +72,11 @@ aligned, regardless of overall height.
 
 ## UI Explained 
 
-[Concourse Pipeline UI Explained] (https://medium.com/concourse-ci/concourse-pipeline-ui-explained-87dfeea83553)
+[Medium post: Concourse Pipeline UI Explained](https://medium.com/concourse-ci/concourse-pipeline-ui-explained-87dfeea83553)
 
+[Medium post: Concourse Build page UI Explained](https://medium.com/concourse-ci/concourse-build-page-explained-4f92824c98f1)
+
+[Medium post: Dashboard Explained](https://medium.com/concourse-ci/designing-a-dashboard-for-concourse-fe2e03248751)
 
 ## Contributing
 The team welcomes contributions from the community, we'd love to have your help! Please read the [guidelines](https://github.com/concourse/concourse/blob/master/CONTRIBUTING.md) doc.
