@@ -14,8 +14,6 @@ foundation of the product.
 
 These colors have been selected for their contrast and adherance to accessibility standards. 
 
-[Dashboard](https://github.com/concourse/Concourse-Design-System/blob/master/Dashboard_color_palette.jpg)
-
 **Primary**
 > Red #ED4B35
 > Green #11C560
@@ -37,14 +35,17 @@ These colors have been selected for their contrast and adherance to accessibilit
 > Brown #6A401C
 > Black #1E1D1D
 
+
 ### Typography
 
 Inspired by the terminal we use a monospace font in our UI. The majority of IDEs (via a console or terminal ) and software text editors use a monospaced font as their default typeface because the aignment of the letters and the fixed width of each character make it easierfor developers to read errors in code. 
 
 #### Font 
 **Inconsolata**
-> https://fonts.google.com/specimen/Inconsolata
+Inconsolata is an open-source font created by Raph Levien and released under the SIL Open Font License
+It is a humanist monospaced font designed for source code listing, terminal emulators, and similar uses.
 
+> https://fonts.google.com/specimen/Inconsolata
 > https://github.com/googlefonts/Inconsolata
 
 ### Logo
@@ -84,10 +85,10 @@ MORE QUESTIONS? If you have questions about this policy, please contact us at tr
 The team welcomes contributions from the community, we'd love to have your help! Please read the [guidelines](https://github.com/concourse/concourse/blob/master/CONTRIBUTING.md) doc.
 
 ### Code of Conduct
-The Concourse project pledges to make our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. You can read more about our commitment in the project's 
+The Concourse project pledges to make our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation. You can read more about our commitment in the project's.
 [Contributor Code of Conduct](https://github.com/concourse/concourse/blob/master/CODE_OF_CONDUCT.md)
 
 ### Feedback
-If you find a bug or want to request a new feature, please open a GitHub [issue](https://github.com/concourse/design-system/issues)
+If you find a bug or want to request a new feature, please open a GitHub [issue](https://github.com/concourse/design-system/issues).
 
 
