@@ -88,6 +88,6 @@ The Concourse project pledges to make our community a harassment-free experience
 [Contributor Code of Conduct](https://github.com/concourse/concourse/blob/master/CODE_OF_CONDUCT.md)
 
 ### Feedback
-If you find a bug or want to request a new feature, please open a GitHub issue. [feedback](https://github.com/concourse/design-system/issues)
+If you find a bug or want to request a new feature, please open a GitHub [issue](https://github.com/concourse/design-system/issues)
 
 
