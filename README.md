@@ -16,23 +16,39 @@ These colors have been selected for their contrast and adherance to accessibilit
 
 **Primary**
 > 01 Red #ED4B35,
+>
 > 01 Green #11C560,
+>
 > 01 Blue #4A90E2,
+>
 > 01 Amber #F5A623,
+>
 > 01 Grey # 9B9B9B,
+>
 > 01 Dark Grey #3D3C3C,
+>
 > 01 Brown #8B572A,
+>
 > 01 Black #1E1D1D,
-> 01 Yellow #F1C40F
+>
+> 01 Yellow #FAD43B
 
 **Secondary**
 > 02 Red #BD3826,
+>
 > 02 Green #419867,
+>
 > 02 Blue #2D76CC,
+>
 > 02 Amber #EC9910,
+>
 > 02 Grey # 7A7373,
+>
 > 02 Dark Grey #3D3C3C, 
-> 02 Brown #6A401C
+>
+> 02 Brown #6A401C,
+>
+> 02 Yellow #F1C40F
 
 
 ### Typography
